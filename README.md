@@ -1,6 +1,45 @@
 # TEAM-17-A-SECURE-TICKETING-SYSTEM-FOR-IN-PERSON-EVENTS
 TEAM 17 - A SECURE TICKETING SYSTEM FOR IN-PERSON EVENTS
+
+
+
+
+
+
+
+
+
+
 ![image](https://user-images.githubusercontent.com/98591118/226335505-fef6cf56-108c-48fa-84ad-b05eb47c7756.png)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
  
 Description
@@ -14,7 +53,7 @@ Description
 This app is 'A Secure Ticketing System for In-person Events' using QR code and Additional Security measures.The Application allows the user to book tickets and the organisers  can also verify the  generated ticket using QR verifier  in a secure way by eliminating  ways of Touted , counterfeited and stolen tickets.The user have to  authenticate and book their tickers giving their details which are being encrypted and upon scanning the generated QR code the organisers can verify the booked ticket.   
 
 
-Project Report + APK :- https://drive.google.com/drive/folders/1oiJvpBHD0fBRPrcSanFUx5kk9RyjqMPG?usp=share_link
+Project Report + APK :- 
 
 some screenshots 
 
